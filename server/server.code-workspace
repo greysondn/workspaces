@@ -9,5 +9,27 @@
         {
             "path": ".."
         }
-    ]
+    ],
+    "extensions": {
+        "recommendations": [
+            "bierner.markdown-preview-github-styles",
+            "codicelq.mytime",
+            "donjayamanne.python-environment-manager",
+            "kevinrose.vsc-python-indent",
+            "michelemelluso.gitignore",
+            "ms-python.isort",
+            "ms-python.python",
+            "ms-python.vscode-pylance",
+            "njpwerner.autodocstring",
+            "randomfractalsinc.vscode-data-preview",
+            "redhat.vscode-yaml",
+            "yesterday17.zenscript",
+            "yzhang.markdown-all-in-one",
+        ]
+    },
+    "settings": {
+        "editor.tabSize": 4,
+        "editor.insertSpaces": true,
+        "files.eol": "\r\n"
+    }
 }
