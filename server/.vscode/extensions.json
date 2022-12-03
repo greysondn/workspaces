@@ -1,0 +1,17 @@
+{
+    "recommendations": [
+        "ms-python.python",
+        "ms-python.vscode-pylance",
+        "ms-python.isort",
+        "kevinrose.vsc-python-indent",
+        "donjayamanne.python-environment-manager",
+        "njpwerner.autodocstring",
+        "michelemelluso.gitignore",
+        "codicelq.mytime",
+        "bierner.markdown-preview-github-styles",
+        "yzhang.markdown-all-in-one",
+        "redhat.vscode-yaml",
+        "randomfractalsinc.vscode-data-preview",
+        "yesterday17.zenscript"
+    ]
+}
