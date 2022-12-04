@@ -60,3 +60,9 @@
 - `00:17` Work on database design and data export (Aleenabot, minecraft)
 - `07:51` Work on improving bot libraries (Aleenabot)
 - `07:52` //_no ending data, so I'mma just kill the clock._
+
+## 03 December 2022
+
+- `07:48` //_start time tracking_
+- `07:49` work on some notes for real world map thing (minecraft)
+- `11:00` // _not sure, so I'm calling it here
