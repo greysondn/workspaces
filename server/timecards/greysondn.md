@@ -61,8 +61,23 @@
 - `07:51` Work on improving bot libraries (Aleenabot)
 - `07:52` //_no ending data, so I'mma just kill the clock._
 
-## 03 December 2022
+### 03 December 2022
 
 - `07:48` //_start time tracking_
 - `07:49` work on some notes for real world map thing (minecraft)
 - `11:00` // _not sure, so I'm calling it here
+
+### 04 December 2022
+
+- `02:09` //_start time tracking_
+- `02:10` browse and collect mods (minecraft)
+- `04:59` //_Distracted_
+
+### 05 December 2023
+
+- `02:11` //_start time tracking_
+- `02:12` browse and collect mods (minecraft)
+- `09:05` //_I have now looked at all mods on curseforge at least briefly._
+
+
+deduct 2 hours from "browse and collect" for reasons.
