@@ -78,6 +78,12 @@
 - `02:11` //_start time tracking_
 - `02:12` browse and collect mods (minecraft)
 - `09:05` //_I have now looked at all mods on curseforge at least briefly._
-
+- `10:05` work on simple mcreator mod (placeholders)
+- `14:38` //_Distracted_
 
 deduct 2 hours from "browse and collect" for reasons.
+
+## Tuesday 06 December
+
+- `05:35` //_Let's start_
+- `05:36` Work on Minecraft stuff (C&B importer)
