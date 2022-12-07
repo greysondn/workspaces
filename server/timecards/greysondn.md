@@ -87,3 +87,8 @@ deduct 2 hours from "browse and collect" for reasons.
 
 - `05:35` //_Let's start_
 - `05:36` Work on Minecraft stuff (C&B importer)
+- `07:30` //_I forgot to clock out, well past lowballing it.
+
+## Wednesday 07 December
+
+- `15:25` //_We start, with me sick_
