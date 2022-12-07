@@ -92,3 +92,5 @@ deduct 2 hours from "browse and collect" for reasons.
 ## Wednesday 07 December
 
 - `15:25` //_We start, with me sick_
+- `16:21` Work on bot - command wrapper (Aleenabot)
+- `18:52` //_Distracted_
