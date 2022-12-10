@@ -180,7 +180,19 @@ running across town in response to a [house fire][wdtv-house-fire].)
 ### Friday 09 December
 
 - `07:56` //_Good morning_
-- `08:11` Add up time clocks
+- `08:11` Add up time clocks and set up some webhooks
+- `09:03` work on simple mcreator mod (empty command wands)
+- `10:15` //_Distracted_
+
+| Time span          | Task                                              |
+| -----------------: | ------------------------------------------------- |
+|          `00:15`   | Add up time clocks and set up some webhooks       |
+|          `00:45`   | work on simple mcreator mod (empty command wands) |
+|        **`01:00`** | **Total**                                         |
+
+> _Last update 11:13_ / Lines [valid:3, comments:1, math not checked]
+
+
 
 ## Totals
 
@@ -196,6 +208,7 @@ running across town in response to a [house fire][wdtv-house-fire].)
 |          `00:00`   | 06 December 2022*                                             |
 |          `11:30`   | 07 December 2022*                                             |
 |          `00:00`   | 08 December 2022                                              |
+|          `01:00`   | 09 December 2022                                              |
 |         *`09:15`*  | *Subtotal: Only days with math verified*                      |
 |        **`56:45`** | **Total**                                                     |
 
