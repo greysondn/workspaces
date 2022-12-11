@@ -19,10 +19,10 @@
 | -----------------: | ------------------------------------------------------------- |
 |          `00:00`   | Gather code into commits (Aleenabot)                          |
 |          `00:00`   | Install and setup time tracking (Aleenabot)                   |
-|          `06:30`   | Try to get helpers good enough to run Hello World (Aleenabot) |
-|        **`06:30`** | **Total**                                                     |
+|          `02:30`   | Try to get helpers good enough to run Hello World (Aleenabot) |
+|        **`02:30`** | **Total**                                                     |
 
-> _Last update 07:58_ / Lines [valid:5, comments:5, math not checked]
+> _Last update 07:58_ / Lines [valid:5, comments:5, math verified]
 
 ### 29 November 2022
 
@@ -203,7 +203,7 @@ running across town in response to a [house fire][wdtv-house-fire].)
 ## Totals
 
 | Time span          | Date (Asterisk indicates math is unchecked)                   |
-|          `06:30`   | 28 November 2022*                                             |
+|          `02:30`   | 28 November 2022                                              |
 |          `03:30`   | 29 November 2022*                                             |
 |          `03:15`   | 30 November 2022*                                             |
 |          `02:30`   | 01 December 2022*                                             |
@@ -215,8 +215,8 @@ running across town in response to a [house fire][wdtv-house-fire].)
 |          `11:30`   | 07 December 2022*                                             |
 |          `00:00`   | 08 December 2022                                              |
 |          `01:00`   | 09 December 2022                                              |
-|         *`09:15`*  | *Subtotal: Only days with math verified*                      |
-|        **`56:45`** | **Total**                                                     |
+|         *`11:45`*  | *Subtotal: Only days with math verified*                      |
+|        **`52:45`** | **Total**                                                     |
 
 Take note of inaccuracies. I have subtotaled out days with verified math as a
 convenience.
