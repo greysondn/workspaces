@@ -130,7 +130,7 @@
 
 > _Last update 08:03_ / Lines [valid:2, comments:1, math not checked]
 
-### 05 December 2023
+### 05 December 2022
 
 - `02:11` //_start time tracking_
 - `02:12` browse and collect mods (minecraft)
@@ -149,7 +149,7 @@
 Deduct 2 hours from "browse and collect" for reasons. (Those reasons were me
 running across town in response to a [house fire][wdtv-house-fire].)
 
-### Tuesday 06 December
+### Tuesday 06 December 2022
 
 - `05:35` //_Let's start_
 - `05:36` Work on Minecraft stuff (C&B importer)
@@ -162,7 +162,7 @@ running across town in response to a [house fire][wdtv-house-fire].)
 
 > _Last update 08:10_ / Lines [valid:2, comments:1, math not checked]
 
-### Wednesday 07 December
+### Wednesday 07 December 2022
 
 - `15:25` //_We start, with me sick_
 - `16:21` Work on bot - command wrapper (Aleenabot)
@@ -177,7 +177,7 @@ running across town in response to a [house fire][wdtv-house-fire].)
 
 > _Last update 08:11_ / Lines [valid:3, comments:2, math not checked]
   
-### Friday 09 December
+### Friday 09 December 2022
 
 - `07:56` //_Good morning_
 - `08:11` Add up time clocks and set up some webhooks
@@ -192,6 +192,12 @@ running across town in response to a [house fire][wdtv-house-fire].)
 
 > _Last update 11:13_ / Lines [valid:3, comments:1, math not checked]
 
+### Saturday 10 December 2022
+
+- `11:16` //_Let's go!_
+- `11:17` Work on bot - command wrapper (Aleenabot)
+- `13:18` Frobnicate config files ()
+- `13:50` //_passed out
 
 
 ## Totals
