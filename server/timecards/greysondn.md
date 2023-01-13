@@ -199,6 +199,28 @@ running across town in response to a [house fire][wdtv-house-fire].)
 - `13:18` Frobnicate config files ()
 - `13:50` //_passed out
 
+### Thursday 15 December 2022
+
+- `19:00` //_Good morning_
+- `19:02` Work on discord portions (AleenaBot)
+- `24:00` // Stop the clock
+- 
+4:32 in the morning - stopped for sleep...
+deduct 3 hours - break to play games...
+Factor in eating and distractibility...
+I'm good with this.
+
+### Friday 16 December 2022
+
+- `15:20` //_Let's go!_
+- `15:27` Work on discord portions (AleenaBot)
+- `16:00` // failed to clock time
+  
+### Saturday 17 December 2022
+
+- `00:48` //_Good morning_
+- `01:53` Work on discord portions (AleenaBot)
+
 
 ## Totals
 
